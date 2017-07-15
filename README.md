@@ -1,3 +1,5 @@
+## NOTE: This feature is now integrated in sparklyr
+
 sparkworker: R Worker for Apache Spark
 ================
 
